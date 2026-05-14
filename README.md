@@ -5,7 +5,7 @@ pede para o atendente pendurar para que seja acertado no final do mês.
 Pensando nisso, é necessário criar um sistema simples de cadastro para que o dono da venda consiga
 controlar as dívidas de seus clientes.
 
-Ambiente de desenvolvimento: Visual Studio
-Plataforma: .NET 10.0.201
-Tipo de aplicação: Console
-Linguagem: C#
+- Ambiente de desenvolvimento: Visual Studio
+- Plataforma: .NET 10.0.201
+- Tipo de aplicação: Console
+- Linguagem: C#
