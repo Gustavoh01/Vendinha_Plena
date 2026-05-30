@@ -15,7 +15,6 @@ controlar as dívidas de seus clientes.
 - Banco de Dados:
 - PostgreSQL
 - DBeaver
-***
 # Passo a Passo para rodar o Projeto
 - Instale o ambiente de desenvolvimento Visual Studio.
 - Caso necessario instale o .Net Sdk para compilar e rodar o código.
