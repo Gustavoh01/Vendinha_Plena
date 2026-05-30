@@ -12,6 +12,6 @@ controlar as dívidas de seus clientes.
 - Pacotes NuGet:
 - Microsoft.EntityFrameworkCore
 - Npgsql.EntityFrameworkCore.PostgreSQL
--Banco de Dados:
--PostgreSQL
--DBeaver
+- Banco de Dados:
+- PostgreSQL
+- DBeaver
