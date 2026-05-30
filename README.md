@@ -9,11 +9,9 @@ controlar as dívidas de seus clientes.
 - Plataforma: .NET 10.0.201
 - Tipo de aplicação: Console
 - Linguagem: C#
-=-=-=-=-=-=-=-=-=
 - Pacotes NuGet:
 - Microsoft.EntityFrameworkCore
 - Npgsql.EntityFrameworkCore.PostgreSQL
--=-=-=-=-=-=-=-=-=
-Banco de Dados:
+-Banco de Dados:
 -PostgreSQL
 -DBeaver
